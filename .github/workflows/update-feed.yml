@@ -1,0 +1,64 @@
+name: Update Heureka feed
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # každé 4 hodiny UTC
+  workflow_dispatch:  # ruční trigger z Actions UI
+  push:
+    branches: [main]
+    paths:
+      - "generate_heureka_xml.py"
+      - ".github/workflows/update-feed.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed
+        env:
+          SHOPIFY_SHOP: ${{ vars.SHOPIFY_SHOP || 'archefashion.com' }}
+          SHOPIFY_PUBLIC_DOMAIN: ${{ vars.SHOPIFY_PUBLIC_DOMAIN || 'https://archefashion.com' }}
+          HEUREKA_CATEGORY_TEE: ${{ vars.HEUREKA_CATEGORY_TEE }}
+          HEUREKA_CATEGORY_CREW: ${{ vars.HEUREKA_CATEGORY_CREW }}
+          HEUREKA_CATEGORY_SET: ${{ vars.HEUREKA_CATEGORY_SET }}
+          HEUREKA_CATEGORY_FALLBACK: ${{ vars.HEUREKA_CATEGORY_FALLBACK }}
+          HEUREKA_MANUFACTURER: ${{ vars.HEUREKA_MANUFACTURER || 'Arche' }}
+          HEUREKA_VAT: ${{ vars.HEUREKA_VAT || '21%' }}
+          HEUREKA_SHIPPING_ID: ${{ vars.HEUREKA_SHIPPING_ID || 'ZASILKOVNA' }}
+          HEUREKA_SHIPPING_PRICE: ${{ vars.HEUREKA_SHIPPING_PRICE || '99' }}
+          HEUREKA_SHIPPING_PRICE_COD: ${{ vars.HEUREKA_SHIPPING_PRICE_COD || '129' }}
+          HEUREKA_DELIVERY_AVAILABLE: ${{ vars.HEUREKA_DELIVERY_AVAILABLE || '0' }}
+          HEUREKA_DELIVERY_UNAVAILABLE: ${{ vars.HEUREKA_DELIVERY_UNAVAILABLE || '7' }}
+        run: |
+          python generate_heureka_xml.py
+          test -f heureka.xml || (echo "heureka.xml nebylo vygenerováno" && exit 1)
+          ITEMS=$(grep -c "<SHOPITEM>" heureka.xml || true)
+          echo "Generated $ITEMS SHOPITEM"
+          if [ "$ITEMS" -lt "1" ]; then
+            echo "::error::Feed má 0 položek — nepušuju, něco je špatně"
+            exit 1
+          fi
+          echo "ITEM_COUNT=$ITEMS" >> "$GITHUB_ENV"
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet heureka.xml; then
+            echo "Feed nezměněn, nepushuju"
+          else
+            git add heureka.xml
+            git commit -m "feed: auto-update ($ITEM_COUNT items)"
+            git push
+          fi
