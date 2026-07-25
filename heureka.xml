@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-07-25 06:22:07 UTC (76 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-07-25 09:54:04 UTC (77 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-10716721709395-54318585708883</ITEM_ID>
@@ -1640,6 +1640,35 @@
   </DELIVERY>
   <ITEM_TYPE>new</ITEM_TYPE>
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10352617914707-54402035581267</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (XS, natural) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-crewneck-natural</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>1770.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche Fashion</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>XS</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>Barva</PARAM_NAME>
+  <VAL>natural</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
   <ITEM_ID>ARCHE-10352617914707-52712460976467</ITEM_ID>
