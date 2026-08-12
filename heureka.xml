@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-08-12 13:20:25 UTC (77 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-08-12 17:00:56 UTC (77 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10716721709395-54318585708883</ITEM_ID>
+  <ITEM_ID>ARCHE-GIFT-KARTA-500</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (500,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
@@ -25,7 +25,7 @@
   <ITEMGROUP_ID>10716721709395</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10716721709395-54318585741651</ITEM_ID>
+  <ITEM_ID>ARCHE-GIFT-KARTA-1000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (1 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
@@ -48,7 +48,7 @@
   <ITEMGROUP_ID>10716721709395</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10716721709395-54318585774419</ITEM_ID>
+  <ITEM_ID>ARCHE-GIFT-KARTA-2000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (2 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
@@ -71,7 +71,7 @@
   <ITEMGROUP_ID>10716721709395</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10716721709395-54318585807187</ITEM_ID>
+  <ITEM_ID>ARCHE-GIFT-KARTA-5000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (5 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
@@ -94,7 +94,7 @@
   <ITEMGROUP_ID>10716721709395</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774388051</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (S, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -126,7 +126,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774420819</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (S, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -158,7 +158,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774453587</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (S, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -190,7 +190,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774486355</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (S, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -222,7 +222,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774519123</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (M, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -254,7 +254,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774551891</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (M, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -286,7 +286,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774584659</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (M, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -318,7 +318,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774617427</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (M, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -350,7 +350,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774650195</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (L, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -382,7 +382,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774682963</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (L, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -414,7 +414,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774715731</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (L, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -446,7 +446,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774748499</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (L, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -478,7 +478,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774781267</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XL, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -510,7 +510,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774814035</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XL, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -542,7 +542,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774846803</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XL, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -574,7 +574,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10505674424659-53332774879571</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XL, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -606,7 +606,7 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864149843</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TS-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -638,7 +638,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864182611</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TM-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -670,7 +670,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864215379</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -702,7 +702,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864248147</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TXL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -734,7 +734,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864280915</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TS-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (M, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -766,7 +766,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864313683</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TM-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (M, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -798,7 +798,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864346451</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (M, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -830,7 +830,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864379219</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TXL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (M, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -862,7 +862,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864411987</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TS-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (L, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -894,7 +894,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864444755</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TM-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (L, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -926,7 +926,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864477523</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (L, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -958,7 +958,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864510291</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TXL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (L, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -990,7 +990,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864543059</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TS-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XL, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -1022,7 +1022,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864575827</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TM-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XL, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -1054,7 +1054,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864608595</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XL, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -1086,7 +1086,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504872329555-53328864641363</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-WHTGRN-TXL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XL, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní organická bavlna, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
@@ -1118,7 +1118,7 @@
   <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328025911635</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TS-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (S, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1151,7 +1151,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328025944403</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TM-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (S, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1184,7 +1184,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328025977171</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (S, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1217,7 +1217,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026009939</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TXL-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (S, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1250,7 +1250,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026042707</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TS-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (M, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1283,7 +1283,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026075475</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TM-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (M, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1316,7 +1316,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026108243</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (M, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1349,7 +1349,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026141011</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TXL-CM</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (M, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1382,7 +1382,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026173779</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TS-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (L, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1415,7 +1415,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026206547</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TM-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (L, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1448,7 +1448,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026239315</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (L, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1481,7 +1481,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026272083</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TXL-CL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (L, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1514,7 +1514,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026304851</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TS-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (XL, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1547,7 +1547,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026337619</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TM-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (XL, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1580,7 +1580,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026370387</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (XL, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1613,7 +1613,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10504704688467-53328026403155</ITEM_ID>
+  <ITEM_ID>ARCHE-SET-SYM-TXL-CXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry (XL, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche Symbiosis | Sladěný casual set pro páry ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dva protiklady, které tvoří dokonalý celek. Náš Originální design křídel je navržen s ohledem na individualitu, ale svůj plný příběh vypráví až ve chvíli, kdy se obě poloviny setkají. Krémové tričko a černá mikina se vizuálně naprosto doplňují, ale navíc s elegancí řeší jeden odvěký vztahový problém. Víme totiž, jak to chodí – ona neustále mrzne, zatímco jemu je věčně teplo. Proto jsme tento set poskládali tak, aby rovnice konečně vycházela. Ona se může zachumlat do hřejivé prémiové mikiny s pravým křídlem, on oblékne naše heavy weight tričko s levým křídlem. Vizuálně vytvoříte jeden dokonalý obraz a tepelný komfort bude poprvé v historii vašeho vztahu v naprosté rovnováze. Pořiďte si párový set The Signature Look se zvýhodněním 270 Kč a ukažte světu, s kým se dokonale doplňujete. Vlastnosti: 1x tričko (Drop 001) a 1x crewneck mikina (Drop 001) tvořící vizuální celek. Detailní, ale nenápadná výšivka andělských křídel (tón v tónu) na zádech obou kousků. Těžší organická bavlna, která drží strukturovaný tvar a neprosvítá. Zvýhodněná cena 3 470 Kč (okamžitá úspora 270 Kč oproti nákupu zvlášť). ]]></DESCRIPTION>
@@ -1646,7 +1646,7 @@
   <ITEMGROUP_ID>10504704688467</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-54402035581267</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-XS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (XS, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1675,7 +1675,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-52712460976467</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (S, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1704,7 +1704,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-52717632291155</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (M, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1733,7 +1733,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-52717632323923</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (L, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1762,7 +1762,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-52717632356691</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (XL, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1791,7 +1791,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352597631315-52711938720083</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-GRN-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (S, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1823,7 +1823,7 @@
   <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352597631315-52712250704211</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-GRN-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (M, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1855,7 +1855,7 @@
   <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352597631315-52712250736979</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-GRN-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (L, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1887,7 +1887,7 @@
   <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352597631315-52712250769747</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-GRN-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (XL, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -1919,7 +1919,7 @@
   <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352594878803-52711915585875</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-BLK-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -1948,7 +1948,7 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352594878803-52711915618643</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-BLK-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -1977,7 +1977,7 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352594878803-52711915651411</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-BLK-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2006,7 +2006,7 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352594878803-52711915684179</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-BLK-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2035,7 +2035,7 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352573317459-52711879278931</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-WHT-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2065,7 +2065,7 @@
   <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352573317459-52711879311699</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-WHT-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2095,7 +2095,7 @@
   <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352573317459-52711879344467</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-WHT-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2125,7 +2125,7 @@
   <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352573317459-52711879377235</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-WHT-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -2155,7 +2155,7 @@
   <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321561256275-52597633745235</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-SIG001-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Crewneck (Drop 001) (S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Crewneck (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Drop 001: Počátek nové éry. Tento crewneck z našeho debutového Dropu 001 definuje směr, kterým se Arche vydává. Není to jen oblečení, je to statement. S gramáží 350 gsm poskytuje pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj architektonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost. Zadní stranu zdobí precizní výšivka křídla , navržená v konceptu duality – doplňuje se s naším oversize tričkem a společně tvoří jeden celek. Design uzavírá jemný detail na levém rukávu: tři malá symbolická pírka , podpis naší snahy o lehkost bytí i v těžké gramáži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň limitovaného high-fashion kousku. ]]></DESCRIPTION>
@@ -2184,7 +2184,7 @@
   <ITEMGROUP_ID>10321561256275</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321561256275-52597633778003</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-SIG001-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Crewneck (Drop 001) (M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Crewneck (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Drop 001: Počátek nové éry. Tento crewneck z našeho debutového Dropu 001 definuje směr, kterým se Arche vydává. Není to jen oblečení, je to statement. S gramáží 350 gsm poskytuje pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj architektonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost. Zadní stranu zdobí precizní výšivka křídla , navržená v konceptu duality – doplňuje se s naším oversize tričkem a společně tvoří jeden celek. Design uzavírá jemný detail na levém rukávu: tři malá symbolická pírka , podpis naší snahy o lehkost bytí i v těžké gramáži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň limitovaného high-fashion kousku. ]]></DESCRIPTION>
@@ -2213,7 +2213,7 @@
   <ITEMGROUP_ID>10321561256275</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321561256275-52597633810771</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-SIG001-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Crewneck (Drop 001) (L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Crewneck (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Drop 001: Počátek nové éry. Tento crewneck z našeho debutového Dropu 001 definuje směr, kterým se Arche vydává. Není to jen oblečení, je to statement. S gramáží 350 gsm poskytuje pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj architektonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost. Zadní stranu zdobí precizní výšivka křídla , navržená v konceptu duality – doplňuje se s naším oversize tričkem a společně tvoří jeden celek. Design uzavírá jemný detail na levém rukávu: tři malá symbolická pírka , podpis naší snahy o lehkost bytí i v těžké gramáži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň limitovaného high-fashion kousku. ]]></DESCRIPTION>
@@ -2242,7 +2242,7 @@
   <ITEMGROUP_ID>10321561256275</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321561256275-52597633843539</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-SIG001-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Crewneck (Drop 001) (XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Crewneck (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Drop 001: Počátek nové éry. Tento crewneck z našeho debutového Dropu 001 definuje směr, kterým se Arche vydává. Není to jen oblečení, je to statement. S gramáží 350 gsm poskytuje pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj architektonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost. Zadní stranu zdobí precizní výšivka křídla , navržená v konceptu duality – doplňuje se s naším oversize tričkem a společně tvoří jeden celek. Design uzavírá jemný detail na levém rukávu: tři malá symbolická pírka , podpis naší snahy o lehkost bytí i v těžké gramáži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň limitovaného high-fashion kousku. ]]></DESCRIPTION>
@@ -2271,7 +2271,7 @@
   <ITEMGROUP_ID>10321561256275</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321519640915-52597487337811</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-SIG001-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Tee (Drop 001) (S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Tee (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Size Tip: Střih je navržen jako výrazně oversize (boxy fit). Pokud preferujete standardnější padnutí, zvolte o velikost menší , než běžně nosíte. Drop 001: Počátek nové éry. The Signature Tee z debutového Dropu 001 není jen základní vrstva, je to samostatný architektonický prvek. S gramáží 200 gsm přináší dokonalou rovnováhu mezi strukturou a prodyšností. Materiál je dostatečně pevný, aby držel svůj boxy tvar a neprosvítal, ale zároveň si zachovává prémiový omak cirkulární bavlny NILCOTT®. Zadní straně dominuje precizní výšivka andělského křídla , navržená v konceptu duality. Toto křídlo zrcadlově doplňuje náš crewneck – jsou jako dvě poloviny jedné duše. Zbytek designu zůstává záměrně čistý. Rukávy i přední strana jsou bez rušivých elementů , což nechává plně vyniknout moderní siluetě a kvalitě materiálu. Spadlá ramena a uvolněný střih definují „boxy" tvar, který funguje jako statement, ať už tričko nosíte samostatně, nebo jako základ vrstvení. ]]></DESCRIPTION>
@@ -2298,7 +2298,7 @@
   <ITEMGROUP_ID>10321519640915</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321519640915-52597487370579</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-SIG001-M</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Tee (Drop 001) (M) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Tee (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Size Tip: Střih je navržen jako výrazně oversize (boxy fit). Pokud preferujete standardnější padnutí, zvolte o velikost menší , než běžně nosíte. Drop 001: Počátek nové éry. The Signature Tee z debutového Dropu 001 není jen základní vrstva, je to samostatný architektonický prvek. S gramáží 200 gsm přináší dokonalou rovnováhu mezi strukturou a prodyšností. Materiál je dostatečně pevný, aby držel svůj boxy tvar a neprosvítal, ale zároveň si zachovává prémiový omak cirkulární bavlny NILCOTT®. Zadní straně dominuje precizní výšivka andělského křídla , navržená v konceptu duality. Toto křídlo zrcadlově doplňuje náš crewneck – jsou jako dvě poloviny jedné duše. Zbytek designu zůstává záměrně čistý. Rukávy i přední strana jsou bez rušivých elementů , což nechává plně vyniknout moderní siluetě a kvalitě materiálu. Spadlá ramena a uvolněný střih definují „boxy" tvar, který funguje jako statement, ať už tričko nosíte samostatně, nebo jako základ vrstvení. ]]></DESCRIPTION>
@@ -2325,7 +2325,7 @@
   <ITEMGROUP_ID>10321519640915</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321519640915-52597487403347</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-SIG001-L</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Tee (Drop 001) (L) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Tee (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Size Tip: Střih je navržen jako výrazně oversize (boxy fit). Pokud preferujete standardnější padnutí, zvolte o velikost menší , než běžně nosíte. Drop 001: Počátek nové éry. The Signature Tee z debutového Dropu 001 není jen základní vrstva, je to samostatný architektonický prvek. S gramáží 200 gsm přináší dokonalou rovnováhu mezi strukturou a prodyšností. Materiál je dostatečně pevný, aby držel svůj boxy tvar a neprosvítal, ale zároveň si zachovává prémiový omak cirkulární bavlny NILCOTT®. Zadní straně dominuje precizní výšivka andělského křídla , navržená v konceptu duality. Toto křídlo zrcadlově doplňuje náš crewneck – jsou jako dvě poloviny jedné duše. Zbytek designu zůstává záměrně čistý. Rukávy i přední strana jsou bez rušivých elementů , což nechává plně vyniknout moderní siluetě a kvalitě materiálu. Spadlá ramena a uvolněný střih definují „boxy" tvar, který funguje jako statement, ať už tričko nosíte samostatně, nebo jako základ vrstvení. ]]></DESCRIPTION>
@@ -2352,7 +2352,7 @@
   <ITEMGROUP_ID>10321519640915</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10321519640915-52597487436115</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-SIG001-XL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Signature Tee (Drop 001) (XL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Signature Tee (Drop 001) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Size Tip: Střih je navržen jako výrazně oversize (boxy fit). Pokud preferujete standardnější padnutí, zvolte o velikost menší , než běžně nosíte. Drop 001: Počátek nové éry. The Signature Tee z debutového Dropu 001 není jen základní vrstva, je to samostatný architektonický prvek. S gramáží 200 gsm přináší dokonalou rovnováhu mezi strukturou a prodyšností. Materiál je dostatečně pevný, aby držel svůj boxy tvar a neprosvítal, ale zároveň si zachovává prémiový omak cirkulární bavlny NILCOTT®. Zadní straně dominuje precizní výšivka andělského křídla , navržená v konceptu duality. Toto křídlo zrcadlově doplňuje náš crewneck – jsou jako dvě poloviny jedné duše. Zbytek designu zůstává záměrně čistý. Rukávy i přední strana jsou bez rušivých elementů , což nechává plně vyniknout moderní siluetě a kvalitě materiálu. Spadlá ramena a uvolněný střih definují „boxy" tvar, který funguje jako statement, ať už tričko nosíte samostatně, nebo jako základ vrstvení. ]]></DESCRIPTION>
