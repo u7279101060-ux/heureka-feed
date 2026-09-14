@@ -1,6 +1,518 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-09-14 14:53:28 UTC (93 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-09-14 20:13:23 UTC (109 items, 0 skipped) -->
 <SHOP>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (S, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CS</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (S, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CS</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (S, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CS</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (S, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CM</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (M, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CM</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (M, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CM</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (M, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CM</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (M, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (L, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (L, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (L, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (L, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TS-CXL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (XL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TM-CXL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (XL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TL-CXL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (XL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-SET-BLKNAT-TXL-CXL</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a tričko (XL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-SYM-TS-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche Symbiosis set — mikina, tričko a 2 bonusy (S, S) ]]></PRODUCTNAME>
