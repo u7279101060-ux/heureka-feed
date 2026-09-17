@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-09-17 04:22:00 UTC (109 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-09-17 13:15:27 UTC (157 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
@@ -88,7 +88,7 @@
   <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
   <VAL>L</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -216,7 +216,7 @@
   <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
   <VAL>L</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -344,7 +344,7 @@
   <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
   <VAL>L</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -472,7 +472,7 @@
   <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
   <VAL>L</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -512,6 +512,1254 @@
   </DELIVERY>
   <ITEM_TYPE>new</ITEM_TYPE>
   <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115083091</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (S, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115115859</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (S, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115148627</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (S, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115181395</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (S, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115214163</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (M, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115246931</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (M, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115279699</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (M, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115312467</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (M, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115345235</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (L, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115378003</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (L, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115410771</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (L, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115443539</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (L, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115476307</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (XL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115509075</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (XL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115541843</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (XL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994715475-54969115574611</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko (XL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a černé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-cerne</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (černá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994715475</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114001747</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (S, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114034515</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (S, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114067283</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (S, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114100051</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (S, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114132819</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (M, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114165587</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (M, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114198355</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (M, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114231123</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (M, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114263891</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (L, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114296659</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (L, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114329427</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (L, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114362195</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (L, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114394963</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (XL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114427731</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (XL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114460499</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (XL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857994617171-54969114493267</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko (XL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — zelená mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-zelena-bile</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (racing green) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857994617171</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416717651</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (S, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416750419</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (S, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416783187</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (S, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416815955</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (S, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416848723</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (M, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416881491</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (M, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416914259</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (M, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416947027</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (M, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967416979795</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (L, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417012563</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (L, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417045331</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (L, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417078099</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (L, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417110867</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (XL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417143635</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (XL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417176403</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (XL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10857322381651-54967417209171</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ ARCHE Essentials set — mikina a bílé tričko (XL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ ARCHE Essentials set — mikina a bílé tričko ]]></PRODUCT>
+  <URL>https://archefashion.com/products/essentials-set-bily</URL>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | </CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>essentials crewneck (natural) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>essentials t-shirt (bílá) (Velikost)</PARAM_NAME>
+  <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10857322381651</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-SYM-TS-CS</ITEM_ID>
