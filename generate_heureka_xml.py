@@ -38,16 +38,16 @@ from typing import Any
 SHOP = os.environ.get("SHOPIFY_SHOP", "archefashion.com").strip("/")
 PUBLIC_DOMAIN = os.environ.get("SHOPIFY_PUBLIC_DOMAIN", f"https://{SHOP}").rstrip("/")
 
-CATEGORY_FALLBACK = os.environ.get(
-    "HEUREKA_CATEGORY_FALLBACK",
-    "Móda | Pánská móda | Pánská trička a tílka",
+# `or` místo defaultu v get(): workflow předává nenastavené vars jako "".
+CATEGORY_FALLBACK = (
+    os.environ.get("HEUREKA_CATEGORY_FALLBACK")
+    or "Móda | Pánská móda | Pánská trička a tílka"
 )
-CATEGORY_TEE = os.environ.get("HEUREKA_CATEGORY_TEE", CATEGORY_FALLBACK)
-CATEGORY_CREW = os.environ.get(
-    "HEUREKA_CATEGORY_CREW",
-    "Móda | Pánská móda | Pánské mikiny",
+CATEGORY_TEE = os.environ.get("HEUREKA_CATEGORY_TEE") or CATEGORY_FALLBACK
+CATEGORY_CREW = (
+    os.environ.get("HEUREKA_CATEGORY_CREW") or "Móda | Pánská móda | Pánské mikiny"
 )
-CATEGORY_SET = os.environ.get("HEUREKA_CATEGORY_SET", CATEGORY_FALLBACK)
+CATEGORY_SET = os.environ.get("HEUREKA_CATEGORY_SET") or CATEGORY_FALLBACK
 
 MANUFACTURER = os.environ.get("HEUREKA_MANUFACTURER", "Arche")
 VAT = os.environ.get("HEUREKA_VAT", "21%")
@@ -176,6 +176,31 @@ def variant_param_values(variant: dict[str, Any], n_params: int) -> list[str]:
     return vals[:n_params]
 
 
+def heureka_params(names: list[str], vals: list[str]) -> list[tuple[str, str]]:
+    """Heureka bere velikost jen pod PARAM_NAME „Velikost“. U setů Shopify
+    pojmenuje volbu podle dílu („essentials crewneck (natural) (Velikost)“),
+    proto velikosti dílů slučujeme do jedné hodnoty („mikina S, tričko M“)."""
+    out: list[tuple[str, str]] = []
+    sizes: list[tuple[str, str]] = []
+    for name, val in zip(names, vals):
+        if name.endswith("(Velikost)"):
+            low = name.lower()
+            if "crewneck" in low:
+                piece = "mikina"
+            elif "t-shirt" in low or "tee" in low:
+                piece = "tričko"
+            else:
+                piece = name[: -len("(Velikost)")].strip()
+            sizes.append((piece, val))
+        else:
+            out.append((name, val))
+    if len(sizes) == 1:
+        out.append(("Velikost", sizes[0][1]))
+    elif sizes:
+        out.append(("Velikost", ", ".join(f"{piece} {val}" for piece, val in sizes)))
+    return out
+
+
 def el(tag: str, content: str | None, cdata: bool = False) -> str:
     if content is None or content == "":
         return ""
@@ -235,7 +260,7 @@ def build_shopitem(product: dict[str, Any], variant: dict[str, Any]) -> str:
     parts.append(el("VAT", VAT))
     parts.append(el("CATEGORYTEXT", category))
     parts.append(el("MANUFACTURER", vendor))
-    for name, val in zip(param_names, param_vals):
+    for name, val in heureka_params(param_names, param_vals):
         parts.append("  <PARAM>\n")
         parts.append("  " + el("PARAM_NAME", name).strip() + "\n")
         parts.append("  " + el("VAL", val).strip() + "\n")
