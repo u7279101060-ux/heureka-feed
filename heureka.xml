@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-21 04:07:18 UTC (157 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-21 13:36:31 UTC (161 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
@@ -3567,6 +3567,35 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
+  <ITEM_ID>ARCHE-10352617914707-55544333140307</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (XXL, natural) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-crewneck-natural</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>1770.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánské mikiny</CATEGORYTEXT>
+  <MANUFACTURER>Arche Fashion</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>XXL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>Barva</PARAM_NAME>
+  <VAL>natural</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
   <ITEM_ID>ARCHE-CRW-GRN-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (S, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
@@ -3680,6 +3709,38 @@
   <PARAM>
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>XL</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>Barva</PARAM_NAME>
+  <VAL>racing green</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10352597631315-55544332779859</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (XXL, racing green) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-crewneck-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/essentials-crewneck-racing-green-2139086.jpg?v=1775472862</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/essentials-crewneck-racing-green-2426249.jpg?v=1775472864</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/essentials-crewneck-racing-green-9764844.jpg?v=1775472863</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>1770.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánské mikiny</CATEGORYTEXT>
+  <MANUFACTURER>Arche Fashion</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>XXL</VAL>
   </PARAM>
   <PARAM>
   <PARAM_NAME>Barva</PARAM_NAME>
@@ -3811,6 +3872,35 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
+  <ITEM_ID>ARCHE-10352594878803-55544330486099</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-t-shirt-black</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>770.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche Fashion</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Barva</PARAM_NAME>
+  <VAL>Černá</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
   <ITEM_ID>ARCHE-TEE-WHT-S</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
@@ -3920,6 +4010,36 @@
   <PARAM>
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10352573317459-55544325701971</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-t-shirt-white</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/essentials-t-shirt-bila-1423566.jpg?v=1775472854</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>770.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche Fashion</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Barva</PARAM_NAME>
+  <VAL>Bílé</VAL>
+  </PARAM>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>XXL</VAL>
   </PARAM>
   <DELIVERY_DATE>0</DELIVERY_DATE>
   <DELIVERY>
