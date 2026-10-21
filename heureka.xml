@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-21 13:36:31 UTC (161 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-21 19:58:48 UTC (188 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
@@ -439,6 +439,258 @@
   <PARAM>
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XL, tričko XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098123091</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XXL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098155859</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XXL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098188627</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XXL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098221395</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XXL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098254163</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (S, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina S, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098286931</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (M, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina M, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098319699</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (L, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina L, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098352467</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XL, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10841573196115</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10841573196115-55546098385235</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ Podzimní nabídka — mikina a tričko (XXL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ Podzimní nabídka — mikina a tričko ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/essentials-set-maly</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XXL</VAL>
   </PARAM>
   <DELIVERY_DATE>0</DELIVERY_DATE>
   <DELIVERY>
@@ -2510,6 +2762,258 @@
   <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066108755</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XXL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066141523</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XXL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066174291</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XXL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066207059</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XXL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066239827</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (S, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina S, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066272595</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (M, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina M, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066305363</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (L, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina L, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066338131</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XL, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10505674424659-55546066370899</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Černá & Cream) (XXL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Černá & Cream) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme černé tričko a mikinu v barvě natural do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-cerna-cream</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2264653.jpg?v=1775472868</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-2244731.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1639849.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-7071519.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-cerna-cream-1928788.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10505674424659</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
   <ITEM_ID>ARCHE-SET-WHTGRN-TS-CS</ITEM_ID>
   <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, S) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
@@ -2947,6 +3451,258 @@
   <PARAM>
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XL, tričko XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047332691</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XXL, S) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko S</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047365459</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XXL, M) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko M</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047398227</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XXL, L) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko L</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047430995</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XXL, XL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047463763</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (S, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina S, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047496531</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (M, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina M, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047529299</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (L, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina L, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047562067</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XL, tričko XXL</VAL>
+  </PARAM>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY>
+  <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+  <DELIVERY_PRICE>99</DELIVERY_PRICE>
+  <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+  </DELIVERY>
+  <ITEM_TYPE>new</ITEM_TYPE>
+  <ITEMGROUP_ID>10504872329555</ITEMGROUP_ID>
+</SHOPITEM>
+<SHOPITEM>
+  <ITEM_ID>ARCHE-10504872329555-55546047594835</ITEM_ID>
+  <PRODUCTNAME><![CDATA[ The Everyday Set (Bílá & Racing Green) (XXL, XXL) ]]></PRODUCTNAME>
+  <PRODUCT><![CDATA[ The Everyday Set (Bílá & Racing Green) ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Ranní rutina bez přemýšlení. Spojili jsme čisté bílé tričko a mikinu v odstínu Racing Green do jednoho funkčního celku. Jde o absolutní základ vašeho šatníku – kvalitní bavlna bez elastanu, osvědčený casual střih a design, který nepodléhá trendům. Pořiďte si kompletní outfit na každý den a ušetříte 270 Kč. Vlastnosti: Obsahuje 1x tričko a 1x crewneck mikinu. Navrženo pro každodenní zátěž a rotaci. Zvýhodněná cena 2 270 Kč (namísto 2 540 Kč). ]]></DESCRIPTION>
+  <URL>https://archefashion.com/products/the-everyday-set-white-racing-green</URL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2642895.jpg?v=1775472869</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-7023745.jpg?v=1775472867</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-9164036.jpg?v=1775472870</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-6373777.jpg?v=1775472869</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/the-everyday-set-bila-racing-green-2933474.jpg?v=1775472868</IMGURL_ALTERNATIVE>
+  <PRICE_VAT>2270.00</PRICE_VAT>
+  <VAT>21%</VAT>
+  <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
+  <MANUFACTURER>Arche</MANUFACTURER>
+  <PARAM>
+  <PARAM_NAME>Velikost</PARAM_NAME>
+  <VAL>mikina XXL, tričko XXL</VAL>
   </PARAM>
   <DELIVERY_DATE>0</DELIVERY_DATE>
   <DELIVERY>
