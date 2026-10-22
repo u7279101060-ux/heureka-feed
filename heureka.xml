@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-22 04:07:51 UTC (188 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-10-22 13:38:31 UTC (188 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
@@ -1132,7 +1132,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina S, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1220,7 +1220,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina M, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1308,7 +1308,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina L, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1396,7 +1396,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XL, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1484,7 +1484,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina S, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1572,7 +1572,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina M, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1660,7 +1660,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina L, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -1748,7 +1748,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XL, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -3116,7 +3116,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina S, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -3228,7 +3228,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina M, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -3340,7 +3340,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina L, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -3452,7 +3452,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XL, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -3564,7 +3564,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>mikina XXL, tričko XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -4323,7 +4323,7 @@
   <ITEMGROUP_ID>10352617914707</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352617914707-55544333140307</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-NAT-XXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (natural) (XXL, natural) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (natural) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -4480,7 +4480,7 @@
   <ITEMGROUP_ID>10352597631315</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352597631315-55544332779859</ITEM_ID>
+  <ITEM_ID>ARCHE-CRW-GRN-XXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials crewneck (racing green) (XXL, racing green) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials crewneck (racing green) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Definice komfortu v jeho nejčistší podobě. Naše Essentials mikina s gramáží 350 gsm je navržena tak, aby poskytovala pocit struktury a bezpečí. Zatímco zvenku drží díky hustě pletené cirkulární bavlně svůj ikonický tvar, vnitřní strana je jemně počesaná pro maximální měkkost a hřejivý dotek na kůži. Minimalistický široký límeček dodává moderní siluetu, která posouvá klasický crewneck na úroveň high-fashion kousku, který nestárne. ]]></DESCRIPTION>
@@ -4628,7 +4628,7 @@
   <ITEMGROUP_ID>10352594878803</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352594878803-55544330486099</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-BLK-XXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (černá) (Černá, XXL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (černá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Černá, která nevybledne. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
@@ -4767,7 +4767,7 @@
   <PARAM_NAME>Velikost</PARAM_NAME>
   <VAL>XL</VAL>
   </PARAM>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
+  <DELIVERY_DATE>7</DELIVERY_DATE>
   <DELIVERY>
   <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
   <DELIVERY_PRICE>99</DELIVERY_PRICE>
@@ -4777,7 +4777,7 @@
   <ITEMGROUP_ID>10352573317459</ITEMGROUP_ID>
 </SHOPITEM>
 <SHOPITEM>
-  <ITEM_ID>ARCHE-10352573317459-55544325701971</ITEM_ID>
+  <ITEM_ID>ARCHE-TEE-WHT-XXL</ITEM_ID>
   <PRODUCTNAME><![CDATA[ essentials t-shirt (bílá) (Bílé, XXL) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ essentials t-shirt (bílá) ]]></PRODUCT>
   <DESCRIPTION><![CDATA[ Dokonalost v jednoduchosti. Naše Essentials triko s gramáží 180 gsm není jen základem šatníku, je to jeho pilíř. Vyrobeno z prémiové cirkulární bavlny, která drží tvar i po opakovaném vyprání. Bílá, která zůstává bílou. Skutečný luxus nepotřebuje křičet. ]]></DESCRIPTION>
