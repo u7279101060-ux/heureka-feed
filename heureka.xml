@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ARCHE Heureka feed, currency=CZK, generated 2026-11-16 05:47:21 UTC (188 items, 0 skipped) -->
+<!-- ARCHE Heureka feed, currency=CZK, generated 2026-11-16 18:11:39 UTC (188 items, 0 skipped) -->
 <SHOP>
 <SHOPITEM>
   <ITEM_ID>ARCHE-SET-BLKNAT-TS-CS</ITEM_ID>
@@ -2225,8 +2225,12 @@
   <ITEM_ID>ARCHE-GIFT-KARTA-500</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (500,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Nevíte, který kus vybrat nebo jakou velikost? U oblečení bývá velikost nejčastějším důvodem vrácení. S dárkovým poukazem ARCHE necháte výběr na obdarovaném. Poukaz pořídíte v hodnotě 500, 1 000, 2 000 nebo 5 000 Kč. Obdarovaný si na našem e-shopu vybere tričko nebo mikinu, barvu i velikost podle sebe. ]]></DESCRIPTION>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
-  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/arche-darkova-karta-3315837.jpg?v=1786079114</IMGURL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-500-na-vysku.png?v=1794847002</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-1000-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-2000-na-vysku.png?v=1794847005</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-5000-na-vysku.png?v=1794847009</IMGURL_ALTERNATIVE>
   <PRICE_VAT>500.00</PRICE_VAT>
   <VAT>21%</VAT>
   <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
@@ -2248,8 +2252,12 @@
   <ITEM_ID>ARCHE-GIFT-KARTA-1000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (1 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Nevíte, který kus vybrat nebo jakou velikost? U oblečení bývá velikost nejčastějším důvodem vrácení. S dárkovým poukazem ARCHE necháte výběr na obdarovaném. Poukaz pořídíte v hodnotě 500, 1 000, 2 000 nebo 5 000 Kč. Obdarovaný si na našem e-shopu vybere tričko nebo mikinu, barvu i velikost podle sebe. ]]></DESCRIPTION>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
-  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/arche-darkova-karta-3315837.jpg?v=1786079114</IMGURL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-1000-na-vysku.png?v=1794847002</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-500-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-2000-na-vysku.png?v=1794847005</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-5000-na-vysku.png?v=1794847009</IMGURL_ALTERNATIVE>
   <PRICE_VAT>1000.00</PRICE_VAT>
   <VAT>21%</VAT>
   <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
@@ -2271,8 +2279,12 @@
   <ITEM_ID>ARCHE-GIFT-KARTA-2000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (2 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Nevíte, který kus vybrat nebo jakou velikost? U oblečení bývá velikost nejčastějším důvodem vrácení. S dárkovým poukazem ARCHE necháte výběr na obdarovaném. Poukaz pořídíte v hodnotě 500, 1 000, 2 000 nebo 5 000 Kč. Obdarovaný si na našem e-shopu vybere tričko nebo mikinu, barvu i velikost podle sebe. ]]></DESCRIPTION>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
-  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/arche-darkova-karta-3315837.jpg?v=1786079114</IMGURL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-2000-na-vysku.png?v=1794847005</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-500-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-1000-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-5000-na-vysku.png?v=1794847009</IMGURL_ALTERNATIVE>
   <PRICE_VAT>2000.00</PRICE_VAT>
   <VAT>21%</VAT>
   <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
@@ -2294,8 +2306,12 @@
   <ITEM_ID>ARCHE-GIFT-KARTA-5000</ITEM_ID>
   <PRODUCTNAME><![CDATA[ Arche dárková karta (5 000,00 Kč) ]]></PRODUCTNAME>
   <PRODUCT><![CDATA[ Arche dárková karta ]]></PRODUCT>
+  <DESCRIPTION><![CDATA[ Nevíte, který kus vybrat nebo jakou velikost? U oblečení bývá velikost nejčastějším důvodem vrácení. S dárkovým poukazem ARCHE necháte výběr na obdarovaném. Poukaz pořídíte v hodnotě 500, 1 000, 2 000 nebo 5 000 Kč. Obdarovaný si na našem e-shopu vybere tričko nebo mikinu, barvu i velikost podle sebe. ]]></DESCRIPTION>
   <URL>https://archefashion.com/products/arche-darkova-karta</URL>
-  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/arche-darkova-karta-3315837.jpg?v=1786079114</IMGURL>
+  <IMGURL>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-5000-na-vysku.png?v=1794847009</IMGURL>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-500-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-1000-na-vysku.png?v=1794847002</IMGURL_ALTERNATIVE>
+  <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1019/6949/4355/files/poukaz-2000-na-vysku.png?v=1794847005</IMGURL_ALTERNATIVE>
   <PRICE_VAT>5000.00</PRICE_VAT>
   <VAT>21%</VAT>
   <CATEGORYTEXT>Heureka.cz | Móda | Pánská móda | Pánská trička a tílka</CATEGORYTEXT>
